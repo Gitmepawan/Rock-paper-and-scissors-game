@@ -2,6 +2,8 @@
 # Virtual Rock Paper Scissors Game!
 
 A virtual version of rock paper scissors! Two players compete by choosing an option and comparing their choices. The game is win, lose, or draw - the loser loses a life. Keep playing until one player has no lives left to live.
+# Do you know when was it invented?
+Every year on August 27th, World Rock Paper Scissors Day celebrates the iconic hand game. It’s also a day to play Rock Paper Scissors just for fun or to settle a dispute. link= https://nationaldaycalendar.com/world-rock-paper-scissors-day-august-27/#:~:text=Rock%20Paper%20Scissors%20is%20considered,and%20ended%20in%20220%20AD.
 
 ## Project Roadmap File
 [Project roadmap Google Doc link](https://docs.google.com/document/d/15gKnuETX0Z-GodusE8Luvbn65flAFX-6kmnsh3VmR3o/edit?usp=sharing)
